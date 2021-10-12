@@ -1,0 +1,27 @@
+body {
+    background-color:#ffe;
+text-align: center;
+font-family:  sans-serif;
+list-style-position: inside;
+border: 6px solid #000;
+
+}
+span{  
+    color: #900;
+}
+img {
+
+    border: 6px solid #000;
+    margin-top: 10px;
+ }
+ h4 { 
+     color: #887;
+     font-weight: 800;
+     font-size: 15px;
+
+
+ }
+ a{
+     color: #900;
+     text-decoration: none;
+ }
